@@ -35,15 +35,11 @@ SPBR - Revanilla is an add-on for SPBR that restores the textures and models dif
 
 This resource pack supports the following features through the Respackopts mod, which allows resource packs to add custom options.
 
-- Restores the vanilla panorama appropriate for each Minecraft version.
-- Provides the following two optional features:
-
-* **Remove Armor Trim Glow**
-
-  Removes the glowing effect from armor trims.
-
-* **Remove Dyed Wolf Armor Glow**
-
+* Restores the vanilla panorama appropriate for each Minecraft version.
+* Provides the following two optional features:
+  * **Remove Armor Trim Glow**  
+ Removes the glowing effect from armor trims.
+  * **Remove Dyed Wolf Armor Glow**  
   Adds a glowing effect to dyed wolf armor.
 
 Originally, these two elements were not changed because they were considered to be SPBR's own interpretation of vanilla textures rather than inconsistencies with vanilla. Since adding Respackopts support, however, they are now available as optional features.
