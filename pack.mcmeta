@@ -1,0 +1,9 @@
+{
+    "pack":{
+        "pack_format":63,
+        "min_format": 63,
+        "max_format": 97.1,
+        "supported_formats": [63, 97.1],
+        "description":"Restores SPBR changes back to vanilla."
+    }
+}

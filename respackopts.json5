@@ -1,0 +1,9 @@
+{
+    id: "spbrRevanilla",
+    version: 13,
+    capabilities: ["FileFilter"],
+    conf: {
+        removeArmorTrimGlow: false,
+        removeDyedWolfArmorGlow: false
+    }
+}

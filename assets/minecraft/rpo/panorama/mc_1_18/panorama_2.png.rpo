@@ -1,0 +1,3 @@
+{
+    condition: "version('minecraft', '>=1.18') & version('minecraft', '<1.19')"
+}

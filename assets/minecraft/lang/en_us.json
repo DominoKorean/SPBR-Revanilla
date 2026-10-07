@@ -1,0 +1,7 @@
+{
+    "rpo.spbrRevanilla": "SPBR - Revanilla",
+    "rpo.spbrRevanilla.removeArmorTrimGlow": "Remove Armor Trim Glow",
+    "rpo.spbrRevanilla.removeArmorTrimGlow.tooltip": "Removes the glow effect from armor trim textures.",
+    "rpo.spbrRevanilla.removeDyedWolfArmorGlow": "Remove Dyed Wolf Armor Glow",
+    "rpo.spbrRevanilla.removeDyedWolfArmorGlow.tooltip": "Removes the glow effect from dyed wolf armor."
+}

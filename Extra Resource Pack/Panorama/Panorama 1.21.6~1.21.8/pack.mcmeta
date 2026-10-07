@@ -1,0 +1,7 @@
+{
+    "pack":{
+        "pack_format":63,
+        "supported_formats":[63,81],
+        "description":"Reverts to version-matching vanilla panorama."
+    }
+}

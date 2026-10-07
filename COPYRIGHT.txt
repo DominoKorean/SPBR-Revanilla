@@ -1,0 +1,6 @@
+This resource pack is a sub-pack of SPBR, based on Vanilla Normal Renewed.
+Therefore, the ideas and structure of this pack are licensed under the GPL-3.0 license.
+https://www.patreon.com/Poudingue
+
+The PBR texture for the door and mace items is provided by Dominokorean's "PBR for Items" pack.
+This texture is not subject to the GPL-3.0 license and is credited under the CC BY 4.0 license of "PBR for Items."

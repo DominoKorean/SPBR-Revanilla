@@ -1,0 +1,6 @@
+{
+    "pack":{
+        "pack_format":55,
+        "description":"Reverts to version-matching vanilla panorama."
+    }
+}
